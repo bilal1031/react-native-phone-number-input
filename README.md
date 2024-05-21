@@ -1,14 +1,7 @@
-<div align="center">
-  <img src="./gif/Phone_Number_Input_Layout_1.gif" height="400" title="Anurag Garg"   alt="Anurag Garg" style="box-shadow: 0 20px 30px 3px rgba(9, 9, 16, 0.2);">
-  <img src="./gif/Phone_Number_Input_Layout_2.gif" height="400" title="Anurag Garg"   alt="Anurag Garg" style="box-shadow: 0 20px 30px 3px rgba(9, 9, 16, 0.2);">
-</div>
-
-<br>
-
-<h1 align="center">React Native Phone Number Input
+<h1 align="center">React Native Country And Phone Number Input
 </h1>
 
-<p align="center">Performance oriented React Native Phone Number Input with typings and proper validation for any country.
+<p align="center">This project is a friendly update to the [react-native-phone-number-input](https://github.com/garganurag893/react-native-phone-number-input) package. We're fixing recent issues and making improvements so it continues to be a reliable tool for React Native developers.
 </p>
 
 <h6 align="center">Made with ❤️ by developer for developers</h6>
@@ -22,8 +15,8 @@
 </p>
 
 ## Want to show your love?
-<p>Click on 🌟 button.</p>
 
+<p>Click on 🌟 button.</p>
 
 ## Table of Contents
 
@@ -65,7 +58,7 @@ $ npm i react-native-phone-number-input --save
 
 ## Usage
 
-For more complete example open [App.tsx](https://github.com/garganurag893/react-native-phone-number-input/blob/master/example/App.tsx)
+For more complete example open [App.tsx](https://github.com/bilal1031/react-native-phone-number-input/blob/master/example/App.tsx)
 
 ```tsx
 import React, { useState, useRef } from "react";
@@ -186,7 +179,7 @@ Upgrade `versions['Flipper'] ||= '~> 0.37.0'` in podfile.
   - 🍴 Fork this repo!
 
 - **Option 2**
-  - 👯 Clone this repo to your local machine using `https://github.com/garganurag893/react-native-phone-number-input`
+  - 👯 Clone this repo to your local machine using `https://github.com/bilal1031/react-native-phone-number-input`
 
 ### Step 2
 
@@ -194,16 +187,7 @@ Upgrade `versions['Flipper'] ||= '~> 0.37.0'` in podfile.
 
 ### Step 3
 
-- 🔃 Create a new pull request using <a href="https://github.com/garganurag893/react-native-phone-number-input" target="_blank">`https://github.com/garganurag893/react-native-phone-number-input`</a>.
-
-## Support
-
-Reach out to me at one of the following places!
-
-- Twitter at <a href="https://twitter.com/AnuragG94634191" target="_blank">https://twitter.com/AnuragG94634191</a>
-- Medium at <a href="https://medium.com/@garganurag893" target="_blank">https://medium.com/@garganurag893</a>
-- Instagram at <a href="https://www.instagram.com/the_only_anurag/" target="_blank">https://www.instagram.com/the_only_anurag/</a>
-- Email at garganurag893@gmail.com
+- 🔃 Create a new pull request using <a href="https://github.com/bilal1031/react-native-phone-number-input" target="_blank">`https://github.com/bilal1031/react-native-phone-number-input`</a>.
 
 ## License
 

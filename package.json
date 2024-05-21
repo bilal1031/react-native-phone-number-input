@@ -1,6 +1,6 @@
 {
-  "name": "react-native-phone-number-input",
-  "version": "2.1.0",
+  "name": "react-native-country-phone-number-input",
+  "version": "2.1.1",
   "description": "Phone Number Input Component",
   "main": "lib/index.js",
   "typings": "lib/index.d.ts",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/garganurag893/react-native-phone-number-input.git"
+    "url": "git+https://github.com/bilal1031/react-native-phone-number-input"
   },
   "author": "anuraggarg",
   "license": "MIT",
