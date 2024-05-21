@@ -1,7 +1,7 @@
 <h1 align="center">React Native Country And Phone Number Input
 </h1>
 
-<p align="center">This project is a friendly update to the [react-native-phone-number-input](https://github.com/garganurag893/react-native-phone-number-input) package. We're fixing recent issues and making improvements so it continues to be a reliable tool for React Native developers.
+<p align="center">This project is a friendly update to the <b>react-native-phone-number-input</b> package. We're fixing recent issues and making improvements so it continues to be a reliable tool for React Native developers.
 </p>
 
 <h6 align="center">Made with ❤️ by developer for developers</h6>
