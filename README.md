@@ -195,8 +195,4 @@ Upgrade `versions['Flipper'] ||= '~> 0.37.0'` in podfile.
 
 - **[MIT license](http://opensource.org/licenses/mit-license.php)**
 
-## Hire
-
-Looking for a React/React-Native Freelance Expert? Email at garganurag893@gmail.com
-
 [react-native-country-picker-modal]: https://github.com/xcarpentier/react-native-country-picker-modal
