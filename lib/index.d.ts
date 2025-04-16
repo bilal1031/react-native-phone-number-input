@@ -1,10 +1,9 @@
 import { Component } from "react";
 import { TextInputProps, StyleProp, TextStyle, ViewStyle } from "react-native";
-import {
+import CountryPicker, {
   CountryCode,
   CallingCode,
   Country,
-  CountryPicker,
   getCallingCode,
   DARK_THEME,
   DEFAULT_THEME,
